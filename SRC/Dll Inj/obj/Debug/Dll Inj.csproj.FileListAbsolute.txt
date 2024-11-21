@@ -1,0 +1,24 @@
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\Dll Inj.exe.config
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\Dll Inj.exe
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\Dll Inj.pdb
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\obj\Debug\Dll Inj.csproj.AssemblyReference.cache
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\obj\Debug\Dll_Inj.Form1.resources
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\obj\Debug\Dll_Inj.Properties.Resources.resources
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\obj\Debug\Dll Inj.csproj.GenerateResource.cache
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\obj\Debug\Dll Inj.csproj.CoreCompileInputs.cache
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\obj\Debug\Dll Inj.csproj.Up2Date
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\obj\Debug\Dll Inj.exe
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\obj\Debug\Dll Inj.pdb
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\FASM-LICENSE.TXT
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\FASM.DLL
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\FASMX64.DLL
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\Reloaded.Assembler.targets
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\Reloaded.Assembler.xml
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\Reloaded.Memory.xml
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\Reloaded.Memory.Buffers.xml
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\System.Buffers.xml
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\System.Memory.xml
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Tenzo\source\repos\Dll Inj\Dll Inj\obj\Debug\Dll Inj.csproj.Fody.CopyLocal.cache
