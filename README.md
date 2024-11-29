@@ -7,6 +7,10 @@ In the source code, you'll find detailed explanations for each line to help you 
 
 ---
 
+### 5 STARS FOR NEW UPDATED SRC!
+
+---
+
 ## Features  
 ### Current Features  
 1. **DLL Injection**  
@@ -15,7 +19,7 @@ In the source code, you'll find detailed explanations for each line to help you 
 2. **Refresh Options**  
    - Refresh both the process and DLL selection lists.  
 
-3. **Search Functionality** *(Under Development)*  
+3. **Search Functionality**
    - Quickly filter processes by name or PID.  
 
 4.  **Error Handling**  
